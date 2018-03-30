@@ -15,7 +15,7 @@ public class Main {
 
         System.out.println("Numbers from 1 to your number");
 
-         //modified i below
+         //modified i below!
         for (int i = 1; i <= x; i++) {
             if (i % 5 == 0 && i % 3 == 0) {
                 System.out.println("fizzbuzz");
