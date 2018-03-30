@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e67f9d6b-a52d-4d10-ae43-763d6889126f" name="Default" comment="" />
+    <list default="true" id="e67f9d6b-a52d-4d10-ae43-763d6889126f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -144,7 +146,7 @@
       <workItem from="1522418224957" duration="363000" />
       <workItem from="1522419302868" duration="5268000" />
       <workItem from="1522428965958" duration="1607000" />
-      <workItem from="1522430621701" duration="21000" />
+      <workItem from="1522430621701" duration="143000" />
     </task>
     <task id="LOCAL-00001" summary="user now determines the ending number">
       <created>1522429108383</created>
@@ -185,7 +187,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10903000" />
+    <option name="totallyTimeSpent" value="11025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="0" />
